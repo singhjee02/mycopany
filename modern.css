@@ -1,0 +1,200 @@
+body{
+text-align: center;
+
+}
+
+p{
+color: #8f8f8f;
+}
+
+
+/* title secton */
+
+#title{
+
+background-color: #FFF5B7;
+padding: 100px;
+
+
+
+}
+
+.title-img{
+
+width: 50%;
+border-radius: 50%;
+left: 50%;
+transform: rotate(25deg);
+
+}
+
+.btn{
+
+margin: 15% 3%;
+
+}
+
+.title-heading{
+
+font-size: 3rem;
+line-height: 1.5;
+text-align: left;
+
+}
+
+.navbar-brand{
+
+font-size: 3rem;
+font-weight: bold;
+
+}
+
+.nav-link{
+
+font-size: 1.5rem;
+
+}
+
+.nav-item{
+
+margin: 0% 15%;
+
+}
+
+/* feature secrion */
+
+#features{
+
+padding: 100px;
+background-color: #fff;
+
+}
+
+.features-title{
+
+font-size: 3rem;
+
+}
+
+.signindicator{
+
+color: red;
+padding-bottom: 10%;
+
+}
+
+.signindicator:hover{
+
+color: blue;
+}
+
+.features-box{
+
+padding: 5%;
+
+}
+
+/* testimonial secton */
+
+#testimonial{
+
+background-color: #FFF5B7;
+padding: 100px;
+
+}
+
+.t-img{
+
+width: 50%;
+border-radius: 50%;
+margin-top: 10px;
+
+}
+
+.testimonial-text{
+
+font-size: 3rem;
+line-height: 1.5;
+
+}
+
+/* press section */
+
+#press{
+
+background-color: #FFF5B7;
+
+}
+
+.press-logo{
+
+width: 25%;
+margin: 5px 50px;
+
+}
+
+/* pricing section */
+
+#pricing{
+
+padding: 100px;
+background-color: #fff;
+
+}
+
+.price-text{
+
+font-size: 3rem;
+line-height: 1.5;
+
+}
+
+.pricing-column{
+
+padding: 3% 15%;
+
+}
+
+.card{
+
+margin: 3% 10%;
+
+}
+
+/* cta section */
+
+#cta{
+
+background-color: #FFF5B7;
+padding: 100px;
+
+}
+
+.cta-heading{
+
+font-size: 3rem;
+line-height: 1.5;
+text-align: left;
+
+}
+
+.btn{
+
+margin: 0% 3%;
+
+}
+
+/* footer section */
+
+#footer{
+
+background-color: #fff;
+padding: 100px;
+
+}
+
+.social-icon{
+
+margin: 5px 5px;
+
+}
